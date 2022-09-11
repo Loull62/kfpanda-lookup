@@ -61,3 +61,7 @@ function searchClicked() {
     document.getElementById('quote').innerHTML = 'Character Not Found';
   }
 }
+
+function updateChara(name, img, quote) {
+  
+}
